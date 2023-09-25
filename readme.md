@@ -26,5 +26,11 @@
     * solved it by closing with comment
 
 * Will create a few extra files now.
+    * Created hello.css and hello.js in the prExample branch.
+    * Created hello.ts in prExample branch.
+    * Merged hello.css and hello.js to main branch.
+    * Still working on hello.ts, so will let this sit in prExample branch.
+
+    
 
 
