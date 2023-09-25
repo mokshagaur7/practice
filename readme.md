@@ -20,3 +20,8 @@
 * Now I will try to delete the branch.
     * I have successfully managed to delete the branch prExample.
     * Why is it still visible on github webpage though?
+
+* Testing Issues
+    * created an issue
+    * solved it by closing with comment
+
