@@ -18,3 +18,5 @@
 * Pushed the html file from branch prExample to main.
 
 * Now I will try to delete the branch.
+    * I have successfully managed to delete the branch prExample.
+    * Why is it still visible on github webpage though?
